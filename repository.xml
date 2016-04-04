@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>d3v0x-overlay</name>
+        <description>d3v0x Gentoo overlay</description>
+        <homepage>https://github.com/d3v0x/d3v0x-overlay</homepage>
+        <owner>
+            <email>richard@nespithal.com</email>
+        </owner>
+        <source type="git">https://github.com/d3v0x/d3v0x-overlay.git</source>
+    </repo>
+</repositories>
